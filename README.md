@@ -2,7 +2,5 @@
 
 A subconverter config file with Microsoft and Apple options.
 
-
-
 Thanks to [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)'s rules.
 
