@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,bing.com
 PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,verysync.exe
+PROCESS-NAME,zerotier-one_x64.exe
