@@ -1,8 +1,12 @@
+# PT
 DOMAIN-SUFFIX,beitai.pt
 DOMAIN-SUFFIX,hd.ai
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msg.vg
+
+# Microsoft
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com

@@ -1,6 +1,11 @@
-DOMAIN-SUFFIX,appstorrent.ru
+# PT
 DOMAIN-SUFFIX,audiences.me
+
+# Other
+DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,bing.com
+
+# Process
 PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,verysync.exe
 PROCESS-NAME,zerotier-one_x64.exe
