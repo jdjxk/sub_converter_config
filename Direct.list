@@ -1,5 +1,8 @@
 # PT
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,eastgame.org
+DOMAIN-SUFFIX,hdzone.me
+DOMAIN-SUFFIX,oshen.win
 
 # Other
 DOMAIN-SUFFIX,appstorrent.ru
@@ -8,4 +11,3 @@ DOMAIN-SUFFIX,bing.com
 # Process
 PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,verysync.exe
-PROCESS-NAME,zerotier-one_x64.exe
