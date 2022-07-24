@@ -1,3 +1,6 @@
+# Apple Music
+DOMAIN-SUFFIX,blobstore.apple.com
+
 # PT
 DOMAIN-SUFFIX,hd.ai
 DOMAIN-SUFFIX,hdtime.org
